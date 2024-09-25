@@ -1,2 +1,2 @@
 # Graphene and water ions (DFT)
-DFT Calculations showing optimized structures of water ions near graphene as published in our recent work
+Coordinates corresponding to DFT optimized structures of water ions near graphene in implicit water as published in our recent work.
