@@ -9,7 +9,7 @@ Data corresponding to our DFT optimization of structures of water ions near grap
 
 Please cite our publication describing this dataset as follows:
 
-Luna Boulbet-Friedelmeyer, Gilles Pécastaings, Christine Labrugère-Sarroste, Jordi Faraudo, Alain Pénicaud, and Carlos Drummond "Graphene in Water is Hardly Ever Neutral", Adv. Sci. 2024, 2403760.  [![status](https://joss.theoj.org/papers/c409d05d1e558827d1dea6275faf8965/status.svg)](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202403760)
+Luna Boulbet-Friedelmeyer, Gilles Pécastaings, Christine Labrugère-Sarroste, Jordi Faraudo, Alain Pénicaud, and Carlos Drummond "Graphene in Water is Hardly Ever Neutral", [Adv. Sci. 2024, 2403760.](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202403760)
 
 
 
