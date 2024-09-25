@@ -1,1 +1,2 @@
-Calculations corresponding to a solvated proton (an H3O^+^ cation surrounded by 3 water molecules, the so-called Eigen ion H9O4^+^) close to a graphene flake as described in our publication.
+Calculations corresponding to a solvated proton near a graphene flake.
+We consider an $$\text{H}_3\text{O}^+$$ cation surrounded by 3 water molecules, the so-called Eigen ion  $$\text{H}_9\text{O}_4^+$$ close to a graphene flake as described in our publication.
