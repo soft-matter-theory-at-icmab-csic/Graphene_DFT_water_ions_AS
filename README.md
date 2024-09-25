@@ -9,8 +9,7 @@ Data corresponding to our DFT optimization of structures of water ions near grap
 
 Please cite our publication describing this dataset as follows:
 
-David C Malaspina and Jordi Faraudo "Chitin Builder: a VMD tool for the generation of
-structures of chitin molecular crystals for atomistic simulations", Journal of Open Source Software 9(93), 5771 (2024)  [![status](https://joss.theoj.org/papers/c409d05d1e558827d1dea6275faf8965/status.svg)](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202403760)
+Luna Boulbet-Friedelmeyer, Gilles Pécastaings, Christine Labrugère-Sarroste, Jordi Faraudo, Alain Pénicaud, and Carlos Drummond "Graphene in Water is Hardly Ever Neutral", Adv. Sci. 2024, 2403760.  [![status](https://joss.theoj.org/papers/c409d05d1e558827d1dea6275faf8965/status.svg)](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202403760)
 
 
 
