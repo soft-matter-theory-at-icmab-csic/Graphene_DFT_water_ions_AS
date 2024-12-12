@@ -9,7 +9,6 @@ Data (atom coordinates) corresponding to our DFT optimization of structures of w
 
 Please cite our publication describing this dataset as follows:
 
-Luna Boulbet-Friedelmeyer, Gilles Pécastaings, Christine Labrugère-Sarroste, Jordi Faraudo, Alain Pénicaud, and Carlos Drummond "Graphene in Water is Hardly Ever Neutral", [Adv. Sci. 2024, 2403760.](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202403760)
-
+Jordi Faraudo "Graphene in Water is Hardly Ever Neutral", [Adv. Sci. 2024, 2403760.](https://onlinelibrary.wiley.com/doi/10.1002/anie.201913257)
 
 
